@@ -44,18 +44,3 @@ Thumbs.db
 
 
 
-codeStyles
-inspectionProfiles
-sonarlint
-$PRODUCT_WORKSPACE_FILE$
-.gitignore
-.name
-compiler.xml
-designpattern.iml
-encodings.xml
-misc.xml
-sonarIssues.xml
-vcs.xml
-workspace.xml
-.idea
-/designpattern/design_pattern.iml
